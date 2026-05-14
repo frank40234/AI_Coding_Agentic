@@ -7,7 +7,11 @@
 3.pip install -r requirements.txt (依據清單安裝所有套件)
 
 4.建立.env 內容如下:
+
 GOOGLE_API_KEY=你的API
+
 GEMIN_MODEL = gemini-2.5-flash
+
 OPENAI_API_BASE=http://localhost:1234/v1
+
 OPENAI_API_KEY=lm-studio
